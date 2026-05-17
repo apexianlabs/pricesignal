@@ -64,9 +64,7 @@ export default function LoginPage() {
     <div style={{width:420,flexShrink:0,background:'#0284c7',display:'flex',flexDirection:'column',padding:'40px',position:'relative',overflow:'hidden'}}>
       <div style={{position:'absolute',top:-80,right:-60,width:280,height:280,borderRadius:'50%',background:'rgba(255,255,255,0.08)'}}/>
       <Link href="/" style={{display:'flex',alignItems:'center',gap:10,marginBottom:48,zIndex:1,textDecoration:'none'}}>
-        <div style={{width:36,height:36,borderRadius:8,background:'rgba(255,255,255,0.2)',display:'flex',alignItems:'center',justifyContent:'center',fontSize:18,fontWeight:800,color:'#fff'}}>
-          P
-        </div>
+        <div style={{width:36,height:36,borderRadius:8,background:'rgba(255,255,255,0.2)',display:'flex',alignItems:'center',justifyContent:'center',fontSize:18,fontWeight:800,color:'#fff'}}>P</div>
         <span style={{fontSize:20,fontWeight:800,color:'#fff'}}>PriceSignal</span>
       </Link>
       <div style={{zIndex:1,marginBottom:40}}>
