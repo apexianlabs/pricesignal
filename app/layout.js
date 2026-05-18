@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'PriceSignal — Track competitor pricing in real time',
-  description: 'Track competitor pricing in real time',
+  title: 'PriceSignal — Track competitor pricing pages and get instant alerts when prices change.',
+  description: 'Track competitor pricing pages and get instant alerts when prices change.',
 }
 export default function RootLayout({ children }) {
   return (

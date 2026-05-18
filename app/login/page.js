@@ -71,7 +71,7 @@ export default function LoginPage() {
         <h1 style={{fontSize:28,fontWeight:800,color:'#fff',lineHeight:1.2,marginBottom:12}}>
           {tab === 'login' ? 'Welcome back.' : 'Get started today.'}
         </h1>
-        <p style={{fontSize:14,color:'rgba(255,255,255,0.7)',lineHeight:1.6}}>Track competitor pricing in real time</p>
+        <p style={{fontSize:14,color:'rgba(255,255,255,0.7)',lineHeight:1.6}}>Track competitor pricing pages and get instant alerts when prices change.</p>
       </div>
       <div style={{zIndex:1,marginTop:'auto',background:'rgba(255,255,255,0.1)',borderRadius:12,padding:20,border:'1px solid rgba(255,255,255,0.15)'}}>
         <p style={{fontSize:13,color:'rgba(255,255,255,0.9)',lineHeight:1.6,marginBottom:10,fontStyle:'italic'}}>"PriceSignal saves me hours every week."</p>
