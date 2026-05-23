@@ -1,4 +1,5 @@
 export const metadata = {
+  icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
   title: 'PriceSignal — Track competitor pricing pages and get instant alerts when prices change.',
   description: 'Track competitor pricing pages and get instant alerts when prices change.',
 }
